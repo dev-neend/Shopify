@@ -1,0 +1,345 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / AdWords Grouping,Google Shopping / AdWords Labels,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Included / United States,Included / Group 01,Price / Group 01,Compare At Price / Group 01,Status
+short-sleeved-t-shirt,Short sleeved t-shirt,"<p>Aarhus 2.0 3255a is a short-sleeved basic tee, crafted from soft organic cotton. The T-shirt has a regular and slightly loose fit and is designed with short sleeves and a crew neck with rib.</p>
+<ul class=""metafields"">
+<li>Composition: 100% cotton - organic</li>
+<li>Category: short sleeved t-shirt</li>
+<li>Color: white</li>
+</ul>",H&M,Apparel & Accessories > Clothing,Clothing,"Men, New, Shirts, Trends",true,Size,S,,,,,,0.0,shopify,deny,manual,90.00,,false,true,,https://cdn.shopify.com/s/files/1/1430/7398/products/t1.jpg?v=1677521385,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+short-sleeved-t-shirt,,,,,,,,,M,,,,,,0.0,shopify,deny,manual,90.00,,false,true,,https://cdn.shopify.com/s/files/1/1430/7398/products/t2.jpg?v=1677521385,2,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+short-sleeved-t-shirt,,,,,,,,,L,,,,,,0.0,shopify,deny,manual,90.00,,false,true,,,,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+lightweight-jacket,Lightweight jacket,<p>Dicta quisquam expedita perferendis animi. Mollitia laboriosam culpa minus et sit et. Odio numquam aliquid enim ipsum necessitatibus accusantium sint. Qui ut velit impedit vel earum.</p><br>--<br><p>Enim id et quia libero quae culpa sunt. Temporibus a assumenda voluptatem eius optio debitis vitae excepturi. Dolores ut consequuntur enim expedita a.</p>,H&M,Apparel & Accessories > Clothing,Clothing,"Jackets, Men, New, Trends",true,Size,S,,,,,,0.0,shopify,deny,manual,90.00,,false,true,,https://cdn.shopify.com/s/files/1/1430/7398/products/jack1.jpg?v=1677520995,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+lightweight-jacket,,,,,,,,,M,,,,,,0.0,shopify,deny,manual,90.00,,false,true,,https://cdn.shopify.com/s/files/1/1430/7398/products/jack2.jpg?v=1677520995,2,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+lightweight-jacket,,,,,,,,,L,,,,,,0.0,shopify,deny,manual,90.00,,false,true,,https://cdn.shopify.com/s/files/1/1430/7398/products/jack4.jpg?v=1677520995,3,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+lightweight-jacket,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/jack3.jpg?v=1677520995,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+gift-wrapping,Gift Wrapping,"Sweeten the deal with a little something extra, from free shipping to free gifts.",Ap Lolita,Gift Cards,"","",true,Denominations,$10.00,,,,,"",0.0,,deny,gift_card,10.00,,false,false,,https://cdn.shopify.com/s/files/1/1430/7398/products/gift1.jpg?v=1677259539,1,,true,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+lightweight-running-anorak,Lightweight Running Anorak,<p>Dicta quisquam expedita perferendis animi. Mollitia laboriosam culpa minus et sit et. Odio numquam aliquid enim ipsum necessitatibus accusantium sint. Qui ut velit impedit vel earum.</p><br>--<br><p>Enim id et quia libero quae culpa sunt. Temporibus a assumenda voluptatem eius optio debitis vitae excepturi. Dolores ut consequuntur enim expedita a.</p>,H&M,Apparel & Accessories > Clothing > Outerwear > Coats & Jackets,Jackets,"Jackets, Men, Trends",true,Size,S,,,,,,0.0,shopify,deny,manual,90.00,,false,true,,https://cdn.shopify.com/s/files/1/1430/7398/products/cot1.jpg?v=1675875259,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+lightweight-running-anorak,,,,,,,,,M,,,,,,0.0,shopify,deny,manual,90.00,,false,true,,https://cdn.shopify.com/s/files/1/1430/7398/products/cot2.jpg?v=1675875259,2,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+lightweight-running-anorak,,,,,,,,,L,,,,,,0.0,shopify,deny,manual,90.00,,false,true,,https://cdn.shopify.com/s/files/1/1430/7398/products/cot3.jpg?v=1675875259,3,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+top-in-drymove,Top in DryMove,<p>Dicta quisquam expedita perferendis animi. Mollitia laboriosam culpa minus et sit et. Odio numquam aliquid enim ipsum necessitatibus accusantium sint. Qui ut velit impedit vel earum.</p><br>--<br><p>Enim id et quia libero quae culpa sunt. Temporibus a assumenda voluptatem eius optio debitis vitae excepturi. Dolores ut consequuntur enim expedita a.</p>,H&M,Apparel & Accessories > Clothing,Clothing,"Men, Shirts, Trends",true,Size,S,,,,,h-95449104,0.0,shopify,deny,manual,90.00,,false,true,,https://cdn.shopify.com/s/files/1/1430/7398/products/me1.jpg?v=1675875015,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+top-in-drymove,,,,,,,,,M,,,,,h-95449105,0.0,shopify,deny,manual,90.00,,false,true,,https://cdn.shopify.com/s/files/1/1430/7398/products/me2.jpg?v=1675875015,2,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+top-in-drymove,,,,,,,,,L,,,,,h-95449106,0.0,shopify,deny,manual,90.00,,false,true,,https://cdn.shopify.com/s/files/1/1430/7398/products/me3.jpg?v=1675875015,3,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+waist-cargo-shorts,Waist Cargo Shorts,"<p>Labore omnis sint totam maxime. Reprehenderit eaque consectetur consequuntur ullam consequuntur voluptatum. Eius voluptatem molestias rerum repellat quam.</p>
+--<br>
+<p>Eum aspernatur culpa sit saepe velit velit consequatur. Quia illo enim voluptas qui. Expedita mollitia suscipit odio nam suscipit. At dignissimos sapiente iure dolorem.</p>
+<p>Autem occaecati amet voluptas accusantium blanditiis similique sunt. Porro repellendus quia laborum sit distinctio fuga. Iure deleniti et est laudantium est expedita nemo.</p>
+<p>Recusandae dicta facere et iste ut autem aut. Vitae cupiditate voluptas ratione aut et qui.</p>
+<p>Et earum quasi est qui. Distinctio velit nam ea voluptatem omnis delectus eligendi. Natus impedit fugit perferendis ut magni. Et veniam minima quaerat neque. Vel eveniet est deserunt repellat.</p>",H&M,Apparel & Accessories > Clothing > Shorts,Accessories,"Short, Women",true,Title,Default Title,,,,,s-69416125,0.0,shopify,continue,manual,70.00,80.00,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/wo1.jpg?v=1675874540,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+waist-cargo-shorts,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/wo2.jpg?v=1675874540,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+waist-cargo-shorts,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/wo3.jpg?v=1675874540,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+yellow-jersey-shorts,Yellow Jersey Shorts,"<p>Features a round neckline, gathered seam at the waist and a full, flared skirt.</p>",Mothercare,Apparel & Accessories > Clothing > Baby & Toddler Clothing,Clothing,"Hot, Kids",true,Title,Default Title,,,,,g-54013995,0.0,shopify,deny,manual,40.00,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/kid5.jpg?v=1675874219,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+yellow-jersey-shorts,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/kid6.jpg?v=1675874219,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+green-jersey-shorts,Green Jersey Shorts,"<p>Features a round neckline, gathered seam at the waist and a full, flared skirt.</p>",Mothercare,Apparel & Accessories > Clothing > Baby & Toddler Clothing,Clothing,"Kids, New",true,Title,Default Title,,,,,g-54013995,0.0,shopify,deny,manual,40.00,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/kid3.jpg?v=1675873752,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+green-jersey-shorts,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/kid4.jpg?v=1675873752,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+pack-of-3-printed,Pack Of 3 Printed,"<p>Features a round neckline, gathered seam at the waist and a full, flared skirt.</p>",Mothercare,Apparel & Accessories > Clothing > Baby & Toddler Clothing,Clothing,Kids,true,Color,Sun,,,,,p-54013995,0.0,shopify,deny,manual,60.00,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/kid1.jpg?v=1675873475,1,,false,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/kid1.jpg?v=1675873475,kg,,,true,true,,,active
+pack-of-3-printed,,,,,,,,,DarkCyan,,,,,p-54013996,0.0,shopify,deny,manual,60.00,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/kid2.jpg?v=1675873475,2,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/kid2.jpg?v=1675873475,kg,,,,,,,
+pack-of-3-printed,,,,,,,,,Grey,,,,,p-54013997,0.0,shopify,deny,manual,60.00,,false,true,"",,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/kid2.jpg?v=1675873475,kg,,,,,,,
+zip-through-hoodie,Zip-Through Hoodie,"<p>Similique necessitatibus occaecati dolor et. Est quia voluptatum quo numquam. Ullam et aut voluptas expedita et non.</p><br>--<br><p>Et cum vero laudantium voluptatem. Quae ab sunt labore magni doloremque modi et. Et omnis itaque et quia.</p>
+
+<p>Laboriosam dolorum velit mollitia pariatur enim possimus. Sed enim aut ut est rerum tempore. Sint eligendi eius saepe quia. Est vero quisquam omnis.</p>
+
+<p>Mollitia et reiciendis tempora suscipit blanditiis. In doloremque rerum ex sed quia. Neque eos ut iure beatae.</p>
+
+<p>Nulla tempora deleniti rerum nesciunt maxime odit consequuntur. Exercitationem consectetur velit ut iste. Accusamus provident sit cum.</p>
+
+<p>Doloribus laborum nam et quo vero. Temporibus nihil rem quis ut laudantium eaque est. Consequatur optio assumenda animi iusto veniam.</p>",Lolita,,Hoodie,"Jackets, Men",true,Title,Default Title,,,,,zt-36843558,0.0,,deny,manual,326.27,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/m1.jpg?v=1675759585,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+zip-through-hoodie,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/m2.jpg?v=1675759585,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+zip-through-hoodie,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/m3.jpg?v=1675759585,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+sweatshirt-shorts,Sweatshirt Shorts,<p>Id aliquam voluptatem totam qui odio qui quia. Magnam mollitia occaecati quisquam commodi. Est quos non ad sit ut sit repellat. Optio aspernatur laudantium ratione sed totam est id.</p><br>--<br><p>Vero assumenda blanditiis eos quasi soluta repudiandae. Ullam quos architecto voluptatem animi voluptas nisi. Deleniti veniam autem doloremque error omnis labore.</p>,H&M,Apparel & Accessories > Clothing > Shorts,Short,"New, Shirts, Tops, Trends, Women",true,Title,Default Title,,,,,ses-59076063,0.0,,deny,manual,56.00,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/b09.jpg?v=1675756608,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+sweatshirt-shorts,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/b08.jpg?v=1675756608,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+sweatshirt-shorts,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/b07.jpg?v=1675756608,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+corbet-shoulder-bag,Corbet shoulder bag,"<p><span>The compartmentalised interior of this understated vegan crossbody bag offers lots of space for your daily essentials, with many of our customers commenting on how much they can fit inside. Stow your keys, phone, card holder, mini umbrella and an A5 notebook with ease. See the video below for the three strap configurations.</span></p>
+<p><span>- Crossbody bag in smooth pumpkin-coloured vegan leather.<br><br>- Made from AppleSkin™ - an eco-leather alternative made from apples.<br><br>- Two interior compartments separated by a zipped pocket.</span></p>",Lolita,,Accessories,"Accessories, Handbags, New, Trends, Women",true,Title,Default Title,,,,,tiu-68649692,3000.0,,deny,manual,59.00,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/c07.jpg?v=1675707815,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+corbet-shoulder-bag,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/c08.jpg?v=1675707815,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+corbet-shoulder-bag,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/c09.jpg?v=1675707815,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+midi-dress-in-stripes,Midi dress in stripes,"<p><span>Putting a clean twist on everyday essentials, Danish label </span><strong>Y.A.S</strong><span> packs its understated-cool style into dresses, premium leather and tailored pieces. Think minimalist designs paired with a contemporary colour palette.</span></p>
+<br>
+<ul>
+<li>All other dresses can go home</li>
+<li>Stripe design</li>
+<li>High neck</li>
+<li>Partial zip fastening</li>
+<li>Long sleeves</li>
+<li>Slim fit</li>
+</ul>
+<div style=""top: 22px; left: 392.75px;"" class=""ddict_btn""><img src=""chrome-extension://bpggmmljdiliancllaapiggllnkbjocb/logo/48.png""></div>",H&M,Sporting Goods > Athletics > Rugby,Rugby,"Dresses, Trends, Women",true,Title,Default Title,,,,,8142690,2000.0,,deny,manual,69.00,90.00,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/c04.jpg?v=1675704561,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+midi-dress-in-stripes,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/c05.jpg?v=1675704561,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+midi-dress-in-stripes,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/c06.jpg?v=1675704561,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+cotton-jersey-dress,Cotton Jersey Dress,"<p>Features a round neckline, gathered seam at the waist and a full, flared skirt.</p>",Mothercare,Apparel & Accessories > Clothing > Dresses,Dresses,Kids,true,Title,Default Title,,,,,54013995,0.0,shopify,deny,manual,821.61,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/c03.jpg?v=1675702989,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+cotton-jersey-dress,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/c01.jpg?v=1675702989,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+cotton-jersey-dress,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/c02.jpg?v=1675702989,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+linen-mini-dress,Linen mini dress,"<p><meta charset=""utf-8""><span>This is </span><a href=""https://www.asos.com/women/a-to-z-of-brands/asos-design/cat/?cid=27869""><strong>ASOS DESIGN</strong></a><span> – your go-to for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.</span></p>
+<p> </p>
+<ul>
+<li>A round of applause for the dress</li>
+<li>Crew neck</li>
+<li>Tie cuffs</li>
+<li>Zip-back fastening</li>
+<li>Regular fit</li>
+</ul>",ASOS,,Dresses,"Dresses, Women",true,Size,S,,,,,bench-09122291,2000.0,shopify,deny,manual,414.92,,true,true,100,https://cdn.shopify.com/s/files/1/1430/7398/products/b04.jpg?v=1675743924,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+linen-mini-dress,,,,,,,,,M,,,,,bench-09122292,2000.0,shopify,deny,manual,414.92,,true,true,100,https://cdn.shopify.com/s/files/1/1430/7398/products/b05.jpg?v=1675743924,2,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+linen-mini-dress,,,,,,,,,L,,,,,bench-09122293,2000.0,shopify,deny,manual,414.92,,true,true,"",,,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+sleeved-shirt,Sleeved Shirt,"<p>Qui adipisci incidunt illo voluptatibus aspernatur omnis asperiores dolorum. Minima voluptas consequuntur velit voluptas et.</p><br>--<br><p>Repellat aut aliquam eum ad sint placeat cum. Accusantium fuga est neque. Sit odit et nobis. Dolor ad illum maiores rerum ut aut nulla.</p>
+
+<p>Possimus et sed ab at molestias dolores. Velit dicta qui quibusdam molestiae ut. Expedita ea pariatur itaque fugit similique.</p>",Lolita,Apparel & Accessories > Clothing,Clothing,"Men, Shirts, Tops",true,Title,Default Title,,,,,er-56985108,2000.0,,deny,manual,380.51,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/j1.jpg?v=1675791408,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+sleeved-shirt,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/j2.jpg?v=1675791408,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+sleeved-shirt,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/j3.jpg?v=1675791408,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+abrigo-largo-lana,Abrigo largo lana,"<p>Diseño largo. Slim fit. Tejido mezcla de lana reciclada. Solapas con muesca. Manga larga abotonada. Bolsillos de solapa laterales. Cierre de botones. Abertura posterior. Forro interior. Bolsillos interiores. El modelo mide 187 cm y lleva una talla M.</p>
+<p>Las prendas etiquetadas como Committed son productos que han sido confeccionadas con fibras y/o procesos de producción sostenible, reduciendo así su impacto ambiental. El objetivo de Mango es respaldar la implementación de prácticas más comprometidas con el medio ambiente, aumentando así, el número de prendas sostenibles en su colección.</p>",H&M,,Jackets,"Hot, Jackets, Men",true,Title,Default Title,,,,,mp-14648380,3000.0,shopify,deny,manual,617.42,640.00,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/i1.jpg?v=1675763183,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+abrigo-largo-lana,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/i2.jpg?v=1675763183,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+abrigo-largo-lana,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/i3.jpg?v=1675763183,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+jersey-cycling-shorts,Jersey Cycling Shorts,"<p>Labore omnis sint totam maxime. Reprehenderit eaque consectetur consequuntur ullam consequuntur voluptatum. Eius voluptatem molestias rerum repellat quam.</p>
+--<br>
+<p>Eum aspernatur culpa sit saepe velit velit consequatur. Quia illo enim voluptas qui. Expedita mollitia suscipit odio nam suscipit. At dignissimos sapiente iure dolorem.</p>
+<p>Autem occaecati amet voluptas accusantium blanditiis similique sunt. Porro repellendus quia laborum sit distinctio fuga. Iure deleniti et est laudantium est expedita nemo.</p>
+<p>Recusandae dicta facere et iste ut autem aut. Vitae cupiditate voluptas ratione aut et qui.</p>
+<p>Et earum quasi est qui. Distinctio velit nam ea voluptatem omnis delectus eligendi. Natus impedit fugit perferendis ut magni. Et veniam minima quaerat neque. Vel eveniet est deserunt repellat.</p>",Lolita,,Accessories,"Jackets, Short, Tops, Women",true,Title,Default Title,,,,,t-69416125,0.0,,deny,manual,70.00,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/d01.jpg?v=1675756097,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+jersey-cycling-shorts,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/d02.jpg?v=1675756097,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+jersey-cycling-shorts,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/d03.jpg?v=1675756097,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+front-crpe-dress,Front Crpe Dress,<p>Cum nihil labore inventore. Deserunt eum deserunt quas adipisci illo. Distinctio eos quae omnis velit magni cupiditate.</p><br>--<br><p>Sint animi odio accusantium delectus beatae blanditiis. Aliquid corporis nihil ut et. Quo soluta quia illo ut autem vel eius.</p>,Lolita,,Dresses,"Dresses, New, Tops, Women",true,Title,Default Title,,,,,40261669,0.0,shopify,deny,manual,540.45,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/z1.jpg?v=1675758531,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+front-crpe-dress,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/z3.jpg?v=1675758634,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+front-crpe-dress,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/z2.jpg?v=1675758634,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+yellow-solid-sweatshorts,Yellow Solid Sweatshorts,"<p>Voluptatibus occaecati quia nisi laudantium aut sed voluptatem quod. Iure qui aut sunt est. Quae magni id molestias quia. Mollitia sit qui ea. Recusandae et ullam sed iste voluptatem nesciunt nulla.</p><br>--<br><p>Quidem aperiam labore accusantium fugit. Quia dolor laudantium dolores omnis optio non. Possimus sit ex dolor facere voluptatem. Atque et explicabo omnis molestias.</p>
+
+<p>Aliquam et ipsa sit sint. Quasi ipsum sequi omnis sed. Et placeat omnis non occaecati voluptates.</p>
+
+<p>Consequatur aut optio accusamus quo modi. Eaque dolorem beatae ipsum sed placeat. Esse quas quibusdam mollitia cumque et ex tempore. Eveniet dolor quidem quidem qui. Voluptas sed beatae ut ipsa aut dolor.</p>
+
+<p>Nemo asperiores voluptate labore recusandae impedit. Alias labore nostrum dolor architecto autem sed perferendis. Quae voluptatibus officiis ut aut dolore assumenda.</p>
+
+<p>Doloremque dicta sed inventore commodi quod exercitationem quis. Dolores asperiores debitis asperiores aliquam consequatur. Soluta dolores officia molestiae eveniet harum. Voluptate ea dolorum autem eos est dolores explicabo.</p>",H&M,Sporting Goods > Athletics > Rugby,Rugby,"New, Shirts, Tops, Trends, Women",true,Title,Default Title,,,,,8142697,2000.0,,deny,manual,675.21,700.00,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/c-01.jpg?v=1675700961,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+yellow-solid-sweatshorts,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/c-02.jpg?v=1675700961,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+yellow-solid-sweatshorts,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/c-03.jpg?v=1675700961,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+yellow-solid-sweatshorts,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/c-04.jpg?v=1675701413,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+leather-slingback-shoe,Leather slingback shoe,"<p>Eaque est ipsum minima repellat. Voluptatum sunt officia impedit voluptatem. Et facilis voluptates dolor fugiat.</p><br>--<br><p>Odit qui aut odit laboriosam eum. Veritatis et nemo error quis consequatur omnis. Totam in voluptatum qui voluptates laudantium molestiae in.</p>
+
+<p>Esse dolor laborum nisi sit. Est dolores ab earum eius ut omnis ut quis. Sequi quibusdam temporibus veniam dolor amet soluta. Aliquid magni est modi quibusdam a eaque.</p>
+
+<p>Et quos in velit pariatur quam omnis voluptatem sint. Est sunt exercitationem odit. At cupiditate architecto repellat laboriosam dolorem et molestias.</p>
+
+<p>Iusto vero eos et et voluptas. Similique nihil accusamus sequi et cumque. Magnam et rerum sit dignissimos illum. Fugit iure qui consequatur quod ut.</p>",Lolita,,Boots,"Shoes, Trends, Women",true,Title,Default Title,,,,,mp-44112844,0.0,,deny,manual,151.62,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/b01.jpg?v=1675740539,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+leather-slingback-shoe,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/b02.jpg?v=1675740539,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+leather-slingback-shoe,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/b03.jpg?v=1675740539,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+knit-midi-dress,Knit Midi Dress,"<p>Quia unde quaerat commodi. Commodi sit adipisci numquam quos. Eos est eos beatae iure voluptatem accusantium quam.</p><br>--<br><p>Sed sunt eum assumenda voluptas. Provident iste voluptas ducimus ullam sit voluptatum molestias. Incidunt magni placeat sit sit assumenda excepturi fugiat. Et maiores cupiditate iste quia repudiandae. Et voluptas minima ea dolore.</p>
+
+<p>Facilis adipisci consequatur enim sed repellat expedita accusamus. Dolor provident necessitatibus dolorem quia aut. Eos accusamus et ut laborum atque vero. Aliquam maiores non assumenda quis.</p>
+
+<p>Sunt id eius cupiditate enim nobis molestiae. Blanditiis non veniam accusamus quod sit blanditiis. Doloremque autem quasi aut autem et magni tenetur. Totam labore commodi quaerat possimus id voluptas.</p>",Zara,Apparel & Accessories > Clothing > Dresses,Dresses,"Dresses, Women",true,Size,M,Color,PowderBlue,,,d-04213536,2000.0,shopify,deny,manual,849.72,900.00,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-35-1.jpg?v=1660552794,1,,false,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-35-1.jpg?v=1660552794,kg,,,true,true,,,active
+knit-midi-dress,,,,,,,,,M,,White,,,d-04213537,2000.0,shopify,deny,manual,849.72,900.00,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/p1.jpg?v=1661325818,2,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/p1.jpg?v=1661325818,kg,,,,,,,
+knit-midi-dress,,,,,,,,,L,,PowderBlue,,,d-04213538,2000.0,shopify,deny,manual,849.72,900.00,true,true,"",,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-35-1.jpg?v=1660552794,kg,,,,,,,
+knit-midi-dress,,,,,,,,,L,,White,,,d-04213539,2000.0,shopify,deny,manual,849.72,900.00,true,true,"",,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/p1.jpg?v=1661325818,kg,,,,,,,
+intelligent-concrete-chair,Intelligent Stiletto Sandals,"<p>Et quis ipsa laborum deleniti. Quidem voluptates excepturi qui sed error. Assumenda dolor aut error.</p><br>--<br><p>Impedit esse qui consequuntur vel molestiae. Alias magni et nostrum eos atque. In culpa eum dolore cupiditate. Et velit vel voluptatibus autem saepe autem repellendus at.</p>
+
+<p>Sed voluptas quia doloribus velit odio. Praesentium quas dignissimos ut ullam error eos autem. Similique autem aut eum incidunt repudiandae. Debitis animi perspiciatis eos.</p>
+
+<p>Quae dolor neque animi tempore consequatur. Voluptas quia delectus vitae sapiente id eos. Quia et mollitia facilis ea nihil. Praesentium non sed dolor vel omnis sint porro aperiam.</p>
+
+<p>Voluptas quia et pariatur hic. Quae odit laudantium eveniet et unde at animi. Quam nostrum iste est unde eius. Quam numquam blanditiis velit omnis atque molestias aut.</p>",Lolita,Sporting Goods > Outdoor Recreation > Winter Sports & Activities > Skiing & Snowboarding > Ski Boots,Ski Boots,"Footwear, New, Shoes, Women",true,Title,Default Title,,,,,r-92935686,3000.0,shopify,deny,manual,646.28,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/y5.jpg?v=1675764277,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+mediocre-granite-coat,Mediocre Granite Coat,"<p>Similique necessitatibus occaecati dolor et. Est quia voluptatum quo numquam. Ullam et aut voluptas expedita et non.</p><br>--<br><p>Et cum vero laudantium voluptatem. Quae ab sunt labore magni doloremque modi et. Et omnis itaque et quia.</p>
+
+<p>Laboriosam dolorum velit mollitia pariatur enim possimus. Sed enim aut ut est rerum tempore. Sint eligendi eius saepe quia. Est vero quisquam omnis.</p>
+
+<p>Mollitia et reiciendis tempora suscipit blanditiis. In doloremque rerum ex sed quia. Neque eos ut iure beatae.</p>
+
+<p>Nulla tempora deleniti rerum nesciunt maxime odit consequuntur. Exercitationem consectetur velit ut iste. Accusamus provident sit cum.</p>
+
+<p>Doloribus laborum nam et quo vero. Temporibus nihil rem quis ut laudantium eaque est. Consequatur optio assumenda animi iusto veniam.</p>",Lolita,,Jean,"Jackets, Men",true,Title,Default Title,,,,,t-36843558,0.0,,deny,manual,326.27,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-33-1.jpg?v=1660552786,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+intelligent-iron-bag,Intelligent Iron Bag,<p>Voluptatem voluptatum fugiat nam modi aspernatur et. Qui libero sit est provident.</p><br>--<br><p>Eaque accusamus reprehenderit quis possimus. Voluptatibus atque architecto est mollitia. Facilis voluptatem ut similique est quo.</p>,Lolita,Cameras & Optics > Camera & Optic Accessories > Optic Accessories > Optics Bags & Cases,Accessories,"Accessories, Handbags, Women",true,Title,Default Title,,,,,ife-39300805,0.0,,deny,manual,929.56,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-32-1.jpg?v=1660552794,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+synergistic-linen-wallet,Synergistic Linen Wallet,<p>Aut non quia rem et beatae sed. Nihil voluptatibus itaque quas est praesentium ab inventore. Aliquid voluptatem saepe ut alias corporis voluptas.</p><br>--<br><p>Sint molestiae illum placeat temporibus hic. Rerum similique neque ipsa nihil natus enim. Veniam numquam facere mollitia quas et enim. Dicta non qui ipsam libero quo eveniet in.</p>,Lolita,,Accessories,"Accessories, Jewelry, Women",true,Title,Default Title,,,,,linen-88974774,0.0,shopify,deny,manual,549.41,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-31-1.jpg?v=1660552793,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+detail-t-shirt,Detail T-shirt,<p>Dicta quisquam expedita perferendis animi. Mollitia laboriosam culpa minus et sit et. Odio numquam aliquid enim ipsum necessitatibus accusantium sint. Qui ut velit impedit vel earum.</p><br>--<br><p>Enim id et quia libero quae culpa sunt. Temporibus a assumenda voluptatem eius optio debitis vitae excepturi. Dolores ut consequuntur enim expedita a.</p>,H&M,Apparel & Accessories > Clothing,Clothing,"Men, New, Shirts, Trends",true,Size,S,,,,,h-95449104,0.0,shopify,deny,manual,90.00,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/o1.jpg?v=1675762516,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+detail-t-shirt,,,,,,,,,M,,,,,h-95449105,0.0,shopify,deny,manual,90.00,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/o2.jpg?v=1675762516,2,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+detail-t-shirt,,,,,,,,,L,,,,,h-95449106,0.0,shopify,deny,manual,90.00,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/o3.jpg?v=1675762516,3,,,,,,,,,,,,,,,,,,,kg,,,,,,,
+leather-slingbacks,Leather slingbacks,"<p>Quia molestias quo vel itaque ratione quidem. Dolor et qui sint commodi sed sed tenetur exercitationem. Ut quibusdam alias cupiditate aliquam ut.</p><br>--<br><p>Qui nam consequatur et nihil perspiciatis. Nesciunt vero sint eaque vel. Quisquam voluptatem vel numquam ex ab ea non enim. Dolor sequi ea natus omnis.</p>
+
+<p>Aperiam ea consequuntur impedit ipsum ullam aut. Nam veritatis officiis at. Eius incidunt et magni consequuntur impedit aut.</p>
+
+<p>Minima fugiat eveniet omnis. Expedita illo nihil distinctio. Quod quos eum consectetur.</p>
+
+<p>Quae maiores distinctio sequi. Quis cum qui quia maxime et fugit vero optio. Et qui praesentium dolor nihil error natus.</p>",H&M,,Accessories,"New, Shoes, Trends, Women",true,Title,Default Title,,,,,at-67819171,0.0,,deny,manual,545.15,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/z01.jpg?v=1675756835,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+leather-slingbacks,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/z03.jpg?v=1675756912,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+leather-slingbacks,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/z02.jpg?v=1675756912,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+incredible-boxy-bag,Incredible Boxy Bag,"<p>Id sit quisquam fuga quis vel enim. Rem porro odit soluta impedit ipsum. Qui eum quae esse accusantium omnis nihil deserunt. Dolor est repellat consectetur omnis illum dignissimos similique.</p><br>--<br><p>Sequi voluptas deleniti voluptatem aut neque odio. Rem suscipit eligendi ut repellendus et. Voluptas maxime nam sunt labore voluptatum consequatur molestias. Laudantium et aut occaecati quaerat aut. Voluptas quis animi dolorem quam ut exercitationem.</p>
+
+<p>Et veritatis ipsum ipsa fugit veritatis. Sunt dolor non hic rerum animi. Repellat cumque incidunt est aut laboriosam dolore. Omnis assumenda quia et. Dicta vitae nulla dolorem eos sit dolor similique vel.</p>
+
+<p>Asperiores laboriosam tenetur aut reiciendis quaerat inventore. Et magni vero commodi beatae. Et quam veniam explicabo enim repellendus.</p>
+
+<p>Sunt aspernatur minima amet saepe iure et. Earum architecto consequuntur voluptates deserunt eligendi. Quas doloremque fugiat iste.</p>",Lolita,,Accessories,"Accessories, Handbags, Trends, Women",true,Title,Default Title,,,,,r-71055398,2000.0,shopify,deny,manual,891.67,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/y1.jpg?v=1675764157,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+incredible-boxy-bag,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/y2.jpg?v=1675764157,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+incredible-boxy-bag,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/y3.jpg?v=1675764157,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+small-cotton-car,Small Glasses,"<p>Voluptatem autem placeat voluptas vel perspiciatis. Quasi in voluptate magni. Voluptatum quaerat quia architecto necessitatibus non fugit architecto.</p><br>--<br><p>Qui eum omnis autem qui. Aut qui quia sed. Velit quia provident ut qui dignissimos.</p>
+
+<p>Voluptas ab perspiciatis ea aut maxime esse. Consequatur facilis voluptate iure voluptatem vel nemo. Quia aut eos consequatur error qui. Laudantium nobis suscipit sunt dolorum animi odit.</p>
+
+<p>Totam voluptas quibusdam libero voluptatem maxime. Voluptatem sed non voluptatem hic cupiditate. Magni dicta fugit et officia repellat.</p>",Lolita,,Accessories,"Accessories, Sunglasses, Women",true,Title,Default Title,,,,,t-59416120,2000.0,shopify,deny,manual,496.20,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-27-1.jpg?v=1660552791,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+lock-shoulder-bag,Lock Shoulder Bag,"<p>Esse non dolorum voluptatem omnis quo qui. Aut nesciunt autem et a facere et ducimus. Aperiam labore ut nihil amet nostrum dolorem. Excepturi ipsam dolor animi aut aperiam aliquid et.</p><br>--<br><p>Quod ut voluptatibus ex consectetur. Distinctio quasi debitis et quia.</p>
+
+<p>Qui omnis odit voluptatem quaerat labore est consequuntur. Sapiente eos ab in aperiam. Vitae nobis ut non perspiciatis adipisci id rerum. Possimus et rerum sit dicta optio sunt officiis.</p>
+
+<p>Qui dignissimos placeat optio numquam. Iste est voluptatem sit. Veniam sint sunt voluptatibus ut error.</p>
+
+<p>Praesentium dolor sed alias repudiandae accusamus ea incidunt. Maxime quasi fugiat corrupti odio id amet. Fuga temporibus est reprehenderit dicta animi est. Unde commodi impedit quia qui est nulla est sunt.</p>
+
+<p>Reprehenderit et accusantium qui est molestiae ut incidunt. Tempore dolor delectus tempore aut culpa corporis.</p>",Lolita,,Accessories,"Accessories, Handbags, Trends, Women",true,Color,Brown,,,,,tic-68649692,2000.0,shopify,deny,manual,91.19,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/k1.jpg?v=1675761134,1,,false,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/k1.jpg?v=1675761134,kg,,,true,true,,,active
+lock-shoulder-bag,,,,,,,,,LightGreen,,,,,tic-68649693,2000.0,shopify,deny,manual,91.19,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/k3.jpg?v=1675761137,2,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/k2.jpg?v=1675761137,kg,,,,,,,
+lock-shoulder-bag,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/k2.jpg?v=1675761137,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+copper-hoop-earrings,Copper Hoop Earrings,"<p>Sint aut rerum rerum voluptas reiciendis eius. Aperiam sed voluptatum ut ipsam officia. Ut voluptatibus itaque rerum et libero sint.</p><br>--<br><p>Sit qui laboriosam sed sequi laudantium voluptatem. Nihil eum ducimus provident aut est laborum. Earum ut sint aut quia minima cumque eius nobis.</p>
+
+<p>Nam non ullam nesciunt inventore voluptatibus iure a. Sint ullam dolorem neque aut necessitatibus. Totam consectetur est ea.</p>
+
+<p>Velit consequuntur rerum ullam rerum inventore. Qui eum dicta ratione eos numquam. Qui expedita quis tenetur velit.</p>
+
+<p>Culpa quod facilis deserunt. Voluptatem harum aut ut quam recusandae distinctio. Fugit rerum voluptatibus ea accusantium debitis odio. Quam non repellat ut.</p>
+
+<p>Odio quod laudantium voluptatem voluptate doloremque. Architecto enim et quod quae eius. Et aut molestias laboriosam non eveniet omnis quas.</p>",Lolita,,Accessories,"Accessories, Jewelry, Trends, Women",true,Title,Default Title,,,,,t13567835,0.0,shopify,deny,manual,230.78,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-25-1.jpg?v=1660552783,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+flatform-sandals,Flatform Sandals,"<p>Rerum eos ut in exercitationem ut sed. Eos perspiciatis fugit sunt eaque quas facere repellendus. Id accusamus optio laudantium. Excepturi sequi et molestias eius in.</p><br>--<br><p>In recusandae et adipisci culpa deserunt debitis labore a. Optio consequatur dignissimos cumque dolorum at. Maxime cumque numquam repellat ex eveniet eius perspiciatis et. Velit voluptatem ut sit quis est magni nesciunt.</p>
+
+<p>Natus itaque quos dolore quis doloremque quis molestias. Voluptas hic minus laboriosam accusamus voluptas.</p>
+
+<p>Repellendus quibusdam culpa sed animi itaque laudantium est. Id et molestiae sequi quasi. Quis cum asperiores non tenetur ut totam. Possimus dolores quas modi veritatis non et.</p>",Lolita,,Accessories,"Footwear, Shoes, Trends",true,Title,Default Title,,,,,t-98845767,1000.0,shopify,deny,manual,817.30,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/u1.jpg?v=1675763560,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+flatform-sandals,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/u2.jpg?v=1675763560,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+pointed-slingbacks,Pointed slingbacks,"<p>Vel culpa repellendus qui quidem repudiandae nam quaerat. Sed iure voluptatibus quos illo maxime.</p><br>--<br><p>Ipsa eum quia aspernatur at debitis at. Eveniet tempore corporis perferendis et et ullam. Voluptas rerum quia fugiat fugiat impedit magnam.</p>
+
+<p>Esse veritatis amet sint cum harum. Totam et dolorem quis rerum perferendis.</p>",H&M,,Boots,"Footwear, Shoes, Women",true,Title,Default Title,,,,,at-34517727,2000.0,shopify,deny,manual,462.15,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/x01.jpg?v=1675757205,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+pointed-slingbacks,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/x02.jpg?v=1675757205,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+selma-patent,Selma Patent,<p>Quasi amet laboriosam ullam excepturi molestiae. Quam minus sapiente quod magnam laudantium nihil incidunt. Soluta minima magnam officiis commodi nesciunt qui.</p><br>--<br><p>Cum ut soluta deserunt rem. Et corrupti qui officiis iusto. Molestiae consequatur voluptas alias neque quibusdam sunt quae. Aut deleniti dolor possimus voluptas.</p>,Lolita,,Boots,"Accessories, Shoes, Trends, Women",true,Title,Default Title,,,,,s-70752335,2000.0,,deny,manual,594.52,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/p1_7abccb64-5a57-4f03-9d92-fd09f1981f2a.jpg?v=1675762009,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+selma-patent,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/p2_a2ecfbc3-e34d-4bdf-b8a8-6f418d95c5b2.jpg?v=1675762009,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+bunny-tweed-buckled,Bunny Tweed Buckled,"<p>Quia et voluptas voluptatum est. Molestiae aut earum voluptatem distinctio ea temporibus. Molestiae et ut quis sed dignissimos maiores.</p><br>--<br><p>Temporibus unde ut exercitationem sit nostrum consectetur est. Voluptatem fugit nisi et minima vel. Adipisci iure ut corrupti hic consectetur. Atque mollitia modi suscipit ut necessitatibus.</p>
+
+<p>Et ab cupiditate et voluptatibus excepturi atque sint veniam. Perspiciatis dolorum consectetur amet. Nam sed et voluptates asperiores illum ipsam deleniti. Voluptatem minima ea dolor dicta reprehenderit.</p>
+
+<p>Delectus veniam laboriosam quidem labore rerum delectus et. Nemo labore reiciendis doloribus quia maxime sunt. Minima et tenetur repellat aliquam.</p>
+
+<p>Blanditiis dolorem voluptatem consequuntur explicabo accusamus fugiat maxime. Eum vel fugit voluptatibus ex dolorum dolorem cupiditate. Et sed minus repudiandae.</p>
+
+<p>Cum aliquid aut voluptatem possimus ipsa. Vel asperiores iste nihil nisi. Architecto temporibus maiores nemo non delectus possimus sit. Consequatur pariatur voluptatem quia ut ab et corporis.</p>",Lolita,,Boots,"Footwear, New, Shoes, Trends, Women",true,Color,Pink,Size,35,,,e-99290979,2000.0,shopify,deny,manual,162.38,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/l1.jpg?v=1675761630,1,,false,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/l1.jpg?v=1675761630,kg,,,true,true,,,active
+bunny-tweed-buckled,,,,,,,,,Pink,,36,,,e-99290980,2000.0,shopify,deny,manual,162.38,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/l2.jpg?v=1675761631,2,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/l1.jpg?v=1675761630,kg,,,,,,,
+bunny-tweed-buckled,,,,,,,,,Pink,,37,,,e-99290981,2000.0,shopify,deny,manual,162.38,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/l3.jpg?v=1675761631,3,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/l1.jpg?v=1675761630,kg,,,,,,,
+bunny-tweed-buckled,,,,,,,,,Green,,35,,,e-99290982,2000.0,shopify,deny,manual,162.38,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/l4.jpg?v=1675761631,4,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/l4.jpg?v=1675761631,kg,,,,,,,
+bunny-tweed-buckled,,,,,,,,,Green,,36,,,e-99290983,2000.0,shopify,deny,manual,162.38,,true,true,"",,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/l4.jpg?v=1675761631,kg,,,,,,,
+bunny-tweed-buckled,,,,,,,,,Green,,37,,,e-99290984,2000.0,shopify,deny,manual,162.38,,true,true,"",,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/l4.jpg?v=1675761631,kg,,,,,,,
+fantastic-leather,Fantastic Leather,"<p>Ut quia perspiciatis enim aut in eligendi qui fuga. Et recusandae voluptatem rem deserunt enim libero id. Unde qui aut occaecati et.</p><br>--<br><p>Facilis explicabo et rerum voluptatibus quis et. Quo harum quis ea odit. Eum laudantium laborum et vitae quasi eligendi dolore.</p>
+
+<p>Ex nihil porro distinctio aut facilis ullam. Autem magni voluptas minus recusandae aut est optio dolores. Ratione iusto harum dolor alias.</p>
+
+<p>Sed consequatur in doloribus et est sit. Eos nesciunt odio qui sit voluptas. Eaque iure vitae voluptatum aut.</p>
+
+<p>Officiis voluptatem voluptatem deleniti soluta ut. Tenetur aliquid ullam pariatur. Voluptatum sequi id quidem quibusdam fugit ipsum perferendis. Corporis animi saepe optio incidunt iure placeat.</p>
+
+<p>Officiis dolor velit numquam ad earum sunt. Quo at suscipit ut aut molestiae sunt ipsa dolor. Occaecati voluptas qui occaecati consequuntur dolore. Sit quae aut cum fuga.</p>",Lolita,,Accessories,"Handbags, Women",true,Title,Default Title,,,,,rd-33465937,0.0,shopify,deny,manual,452.95,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-20-1.jpg?v=1660552790,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+round-neck-orange-t-shirt,Round Neck Orange T-Shirt,"<p>Dolores quisquam ut aut a est sit. Impedit voluptatem esse quia ab. Doloribus iusto corrupti perspiciatis sint velit maiores aut. Quisquam minus dolorem dolorum sit aut fugit.</p>
+<br>--<br>
+<p>Dolore molestiae quo quae optio dicta. Ullam quidem accusantium quis saepe sequi consectetur itaque. Fugiat quia sed animi velit quia. Et beatae unde vitae iste nihil voluptas.</p>
+<div class=""ddict_btn"" style=""top: 9px; left: 440.547px;""><img src=""chrome-extension://bpggmmljdiliancllaapiggllnkbjocb/logo/48.png""></div>",Lolita,Apparel & Accessories > Clothing,Clothing,"Best seller, Men, Shirts, Tops",true,Title,Default Title,,,,,et-04609582,0.0,,deny,manual,788.15,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-19-1.jpg?v=1660552789,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+round-neck-orange-t-shirt,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/p2.jpg?v=1661362595,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+mediocre-bronze-hat,Mediocre Bronze Hat,"<p>Illo sint ipsum et nihil rerum nobis. Temporibus aut commodi reprehenderit nihil aliquam. Tempora exercitationem dolorum amet. Sunt qui id qui quasi voluptas temporibus assumenda.</p><br>--<br><p>Minima sequi ut dolore esse distinctio quasi et. Dignissimos occaecati repellat non. Et ut culpa placeat magnam eligendi. Voluptas ut molestiae omnis temporibus.</p>
+
+<p>Et eveniet id maxime enim ad. Labore sed quod et aut aut. Quo eos aspernatur vero illum.</p>",Lolita,,Accessories,"Accessories, Women",true,Title,Default Title,,,,,s-01076608,0.0,shopify,deny,manual,364.00,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-17-1.jpg?v=1660552784,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+fluidflow-2-0-running,Fluidflow 2.0 Running,"<p>Praesentium eaque qui molestiae voluptas sint architecto. Ut sint ex aliquam nulla iste. Eius aliquam necessitatibus nihil est in excepturi.</p><br>--<br><p>Inventore modi quia eaque alias repudiandae corporis. Sequi et odio harum eius. Maxime quasi aut reprehenderit consectetur nobis.</p>
+
+<p>Id doloremque similique fuga nihil architecto. Dolorem fugiat rerum excepturi maiores. Aperiam reiciendis repudiandae dolores.</p>",Lolita,,Boots,"Best seller, Men, Shoes",true,Title,Default Title,,,,,h-64294865,0.0,,deny,manual,617.32,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/v01.jpg?v=1675757837,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+fluidflow-2-0-running,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/v02.jpg?v=1675757837,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+revere-collar-blazer,Revere Collar Blazer,"<p>Quos optio ut cum. Illum aspernatur amet aut est aut. Eius amet voluptas occaecati ad.</p>
+<p>Expedita hic asperiores voluptas porro voluptate nihil. Soluta cum nam facere dolores ipsa rerum soluta quaerat. Voluptatem est aut est iste nemo nam. Numquam ut iusto doloribus laboriosam ab maiores porro.</p>
+<p>Amet atque a alias omnis quae. Et enim est facere et aperiam. Aut sint optio nihil debitis dolore ut cupiditate.</p>
+<p>Reprehenderit cumque ipsam ipsum consectetur rerum. Et nulla nihil voluptatem quo molestiae. Iste aspernatur ut quam. Repellendus laudantium doloremque possimus numquam distinctio accusantium sed et.</p>",Lolita,Apparel & Accessories > Clothing,Clothing,"Jackets, Women",true,Title,Default Title,,,,,et-01524390,1000.0,shopify,deny,manual,559.49,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-15-1.jpg?v=1660552785,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+revere-collar-blazer,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-15-2.jpg?v=1660552787,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+gathered-sleeve-jacket,Gathered-sleeve jacket,"<p>Consectetur aspernatur perferendis sint mollitia eveniet. Eaque quos autem voluptates eum iste neque consequatur. Et non esse sit reprehenderit. Est laudantium error necessitatibus ut.</p><br>--<br><p>Quia amet dolores fugit sit. Harum corporis fugit quibusdam nesciunt assumenda recusandae. Praesentium maiores accusamus exercitationem quas incidunt quo.</p>
+
+<p>Doloribus soluta explicabo aut eum. Et autem occaecati quidem neque ut ut eius eum. Voluptatem laborum voluptate enim aliquid incidunt. Laudantium nihil eum placeat quae cumque libero rerum.</p>
+
+<p>At nihil minima dignissimos dolorem rerum at asperiores. Autem perferendis autem exercitationem est omnis similique non enim. Non in dolores et quis.</p>",Lolita,Apparel & Accessories > Clothing,Clothing,"Jackets, Tops, Women",true,Title,Default Title,,,,,es-77556905,0.0,shopify,deny,manual,471.46,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-14-1.jpg?v=1660552785,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+gathered-sleeve-jacket,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-14-2.jpg?v=1660552786,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+gathered-sleeve-jacket,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-14-3.jpg?v=1660552788,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+neck-jersey-dress,Neck jersey dress,<p>Id aliquam voluptatem totam qui odio qui quia. Magnam mollitia occaecati quisquam commodi. Est quos non ad sit ut sit repellat. Optio aspernatur laudantium ratione sed totam est id.</p><br>--<br><p>Vero assumenda blanditiis eos quasi soluta repudiandae. Ullam quos architecto voluptatem animi voluptas nisi. Deleniti veniam autem doloremque error omnis labore.</p>,Lolita,Apparel & Accessories > Clothing > Dresses,Dresses,"Dresses, Trends, Women",true,Title,Default Title,,,,,es-59076063,0.0,,deny,manual,656.06,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-13-1.jpg?v=1660552780,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+neck-jersey-dress,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-13-2.jpg?v=1660552781,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+neck-jersey-dress,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-13-3.jpg?v=1660552782,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+long-sleeve-t-shirt,Long Sleeve T-Shirt,"<p>Ea dolor voluptas nihil perspiciatis culpa magni. Illo autem eaque repellendus assumenda. Labore quibusdam quidem quia doloribus a.</p><br>--<br><p>Aut et molestiae veritatis. Ipsa deserunt qui laudantium tempore.</p>
+
+<p>Suscipit officia nulla aut eligendi voluptatibus minus. Aut atque est minus quisquam non corporis reiciendis. Sit et consequuntur cupiditate.</p>
+
+<p>Et vitae eum sint alias at. Voluptatem eligendi culpa et. Quasi cumque necessitatibus est doloremque aspernatur aperiam dolorem. Quaerat repellendus facere voluptatibus laboriosam natus hic.</p>
+
+<p>Voluptatem nulla autem odit. Ducimus omnis recusandae ea illo voluptate. Dolorum nisi et optio corrupti magni. Ut voluptatem assumenda quia ut quo voluptatem necessitatibus.</p>
+
+<p>Accusantium ipsum error aut in officiis. Omnis omnis odit dolores. Ipsum soluta voluptatem consequatur quisquam dolore eaque nostrum.</p>",Lolita,,Accessories,"Dresses, Sweaters, Tops, Women",true,Title,Default Title,,,,,et-78887114,0.0,,deny,manual,942.24,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-12-1.jpg?v=1660552776,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+long-sleeve-t-shirt,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-12-2.jpg?v=1660552777,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+long-sleeve-t-shirt,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-12-3.jpg?v=1660552778,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+midi-skirt,Midi Skirt,"<p>Magni aut dolores enim ducimus. Nihil natus voluptatem ipsa voluptatem fugit alias nihil et. Asperiores assumenda voluptatum quia voluptas consequatur accusantium.</p><br>--<br><p>Dolore praesentium ipsam omnis autem incidunt est excepturi commodi. Velit amet quaerat quod laboriosam magni sit vel.</p>
+
+<p>Quo ipsa non repudiandae in qui ab dolorum. Quas hic omnis ea quo rerum deleniti sint asperiores.</p>
+
+<p>Voluptates quis consequuntur molestiae ipsa et. Quis modi nostrum accusantium nisi consequatur unde voluptatibus. Sint id tempora unde quibusdam.</p>
+
+<p>Accusantium incidunt ullam quas est adipisci suscipit. Dolores cum ea quis vel aliquam culpa. Placeat occaecati sed omnis placeat ratione quod consequatur.</p>",Lolita,,Dresses,"Dresses, Trends, Women",true,Title,Default Title,,,,,e-47407909,3000.0,,deny,manual,188.02,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-11-1.jpg?v=1660552781,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+midi-skirt,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-11-2.jpg?v=1660552783,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+midi-skirt,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-11-3.jpg?v=1660552784,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+small-iron-lamp,Small Iron Lamp,"<p>Praesentium optio temporibus quasi labore similique qui. Omnis beatae odit culpa facilis. Earum velit unde nisi accusantium iusto.</p><br>--<br><p>Corrupti ex aut nemo ab et inventore. Est impedit voluptas repudiandae. Eos praesentium nihil ut corrupti. Sunt placeat esse repudiandae autem perspiciatis.</p>
+
+<p>Laudantium libero temporibus eaque quia minima consequatur recusandae. Cupiditate maiores voluptas cupiditate et voluptatem aperiam esse facere. Laudantium nemo error soluta mollitia dolorem aliquam occaecati.</p>
+
+<p>Consequatur et voluptatum velit exercitationem. Amet rem rerum aspernatur repellendus repudiandae cupiditate deserunt. Nihil ad minus est vel. At sapiente sit voluptas illum.</p>",Lolita,Apparel & Accessories > Clothing,Clothing,"Dresses, Tops, Women",true,Title,Default Title,,,,,p-77148612,0.0,shopify,deny,manual,639.40,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-9-1-scaled.jpg?v=1660552774,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+small-iron-lamp,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-9-2.jpg?v=1660552775,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+small-iron-lamp,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-9-3.jpg?v=1660552777,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+small-iron-lamp,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-9-4.jpg?v=1660552779,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+mediocre-concrete-ear,Mediocre Concrete Ear,"<p>Consequuntur vel corporis est eligendi unde doloribus quos soluta. Similique adipisci voluptas occaecati non vel. Iusto similique illo amet sed qui placeat aliquam sit.</p><br>--<br><p>Ab pariatur facere saepe excepturi. Occaecati ratione molestias qui aut illum et ut autem. Sint veritatis corporis provident soluta officia explicabo dicta.</p>
+
+<p>Ea accusamus et nam inventore soluta aut. Ipsum cumque dolore sed consequatur id explicabo blanditiis. Aspernatur soluta eveniet laborum temporibus quas nobis incidunt. Sit tempora quia rerum quia totam maiores dolorem saepe.</p>
+
+<p>Quidem ipsa nostrum expedita placeat iusto aut et non. Rerum at ea beatae molestiae.</p>",Lolita,,Accessories,"Accessories, Jewelry, Trends, Women",true,Title,Default Title,,,,,t-99906603,2000.0,,deny,manual,484.22,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-8-1.jpg?v=1660552773,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+mediocre-concrete-ear,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-8-2.jpg?v=1660552774,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+rustic-loafer-pumps,Rustic Loafer Pumps,"<p>Amet dolores enim maiores debitis repellendus voluptas eum. Suscipit eius quia aut labore nihil. Tenetur perspiciatis asperiores eius veritatis nulla et minima. Voluptatem molestiae quasi et nulla.</p><br>--<br><p>Officiis accusamus voluptas deserunt odit dignissimos. Quae qui nihil dolorem doloremque sed voluptates. Consequatur molestias consequatur libero qui harum. Natus nesciunt ut sequi et omnis.</p>
+
+<p>Saepe exercitationem consequuntur voluptatibus ut. Cumque ut ut quia aut ut quasi praesentium aut.</p>
+
+<p>Doloremque voluptatem provident veritatis quis commodi provident quasi. Qui libero sed assumenda odio. Rerum accusantium saepe veritatis delectus. Modi distinctio nisi quaerat animi.</p>
+
+<p>Est nostrum veniam occaecati accusantium ipsum possimus modi. Quisquam aut et aut architecto sunt aut. Quos nobis asperiores cum dolore.</p>",Lolita,,Boots,"Accessories, Shoes, Women",true,Title,Default Title,,,,,e-39602893,0.0,shopify,deny,manual,183.09,,false,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-6-2.jpg?v=1675763499,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+rustic-loafer-pumps,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-6-3.jpg?v=1675763499,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+rustic-loafer-pumps,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-6-4.jpg?v=1675763499,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+awesome-aluminum-plate,Awesome Aluminum Plate,"<p>Laudantium quaerat delectus eveniet eum at. Veritatis quod impedit voluptas ullam. Laudantium sed ipsum dolor in tempore similique repellendus non. Earum occaecati asperiores eum reprehenderit.</p><br>--<br><p>Sit est debitis perspiciatis consectetur minus reprehenderit. Vel vel deleniti a dolorum eveniet quia. Quia inventore et itaque. Rerum rerum labore et fugit qui.</p>
+
+<p>Voluptatem atque at qui tempore. Quas omnis in tempora unde et. Ducimus beatae est deserunt vel autem soluta.</p>",Lolita,,Sweaters,"Shirts, Sweaters, Tops, Trends, Women",true,Title,Default Title,,,,,p13567835,3000.0,shopify,deny,manual,423.44,440.00,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-5-1_365ca999-98d0-4949-b9bb-4ccf7ae65984.jpg?v=1660552779,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+awesome-aluminum-plate,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-5-2.jpg?v=1660552780,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+awesome-aluminum-plate,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-5-3.jpg?v=1660552782,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+awesome-aluminum-plate,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-5-4.jpg?v=1660552784,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+lightweight-linen-bench,Lightweight Linen Bench,"<p>Aliquid omnis sit aperiam quo. Unde temporibus minima doloribus non ab consequatur. Quo debitis sed qui dolor in distinctio. Voluptas quidem esse fugit exercitationem.</p><br>--<br><p>Vero quam laboriosam laudantium et. Corporis qui commodi in voluptate.</p>
+
+<p>Hic molestiae reiciendis aut amet. Molestiae beatae consectetur omnis aut quis consectetur consequuntur. Saepe voluptatem cumque voluptatum temporibus nihil.</p>
+
+<p>Ipsa quod quas sunt facere. Qui rerum iste rerum exercitationem et occaecati omnis. Minus necessitatibus possimus voluptate facere quia sit.</p>
+
+<p>Vel sint commodi placeat voluptates at aspernatur. Ut error ipsa reiciendis. Et dicta sed quas sed voluptatem et molestias quo. Et consequatur porro ipsa eligendi.</p>
+
+<p>Asperiores omnis pariatur nihil vero. Praesentium ratione rerum pariatur nisi iure sint et. Rerum pariatur quam labore eum ut explicabo odit. Rerum consequuntur ipsum non earum.</p>",Lolita,Apparel & Accessories > Clothing,Clothing,"Men, Tops",true,Title,Default Title,,,,,h-90741463,2000.0,,deny,manual,243.14,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-4-1.jpg?v=1660552769,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+lightweight-linen-bench,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-4-2.jpg?v=1660552770,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+lightweight-linen-bench,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-4-3.jpg?v=1660552771,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+lightweight-linen-bench,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-4-4.jpg?v=1660552773,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+polo-de-tricoo,Polo de tricoo,"<p>Nostrum et ipsum rerum autem voluptatem. Illum quisquam quae numquam. Quas alias atque sequi dolore eum.</p><br>--<br><p>Aliquam eius omnis ipsam odit libero occaecati. Molestiae sint quo quaerat. Tempore harum dolores beatae aperiam voluptatum. Aspernatur blanditiis ea provident qui.</p>
+
+<p>Voluptatem rerum harum quidem ducimus. Quis qui harum quibusdam eum eius exercitationem. Hic et modi cumque quo laborum beatae.</p>",Lolita,,Accessories,"Accessories, New, Trends",true,Title,Default Title,,,,,table-474079,2000.0,shopify,deny,manual,798.18,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-3-1.jpg?v=1660552769,1,,false,,,,,,,,,,,,,,,,,kg,,,true,true,,,active
+polo-de-tricoo,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-3-2.jpg?v=1660552770,2,,,,,,,,,,,,,,,,,,,,,,,,,,
+polo-de-tricoo,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-3-3.jpg?v=1660552772,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+chain-shoulder-bag,Chain Shoulder Bag,"<p>Accusantium rem nemo placeat sint voluptas. Voluptas voluptas nihil quia repellendus. Magnam dolores est consequatur repudiandae fugiat est. Quia maiores eum magnam repellendus recusandae.</p><br>--<br><p>Cumque labore nesciunt voluptates est modi. Doloribus animi tempora accusamus mollitia optio quisquam quia. Et corrupti similique quas repellat doloremque.</p>
+
+<p>Nesciunt officia necessitatibus accusamus veritatis. Corrupti id deleniti est. Asperiores laboriosam est voluptatum architecto dolorem.</p>
+
+<p>Et facilis ut at consectetur. Facere vero corporis modi beatae quod. Ad sed commodi qui animi minima.</p>
+
+<p>Autem architecto sunt ipsam et suscipit suscipit. Est et corrupti eos quia accusantium incidunt omnis. Non rem eveniet perferendis repudiandae. Ex sapiente tempora id et qui iste.</p>",Lolita,,Accessories,"Accessories, Best seller, Handbags, Women",true,Color,Blue,,,,,es-24392426,1000.0,shopify,deny,manual,619.34,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-2-1.jpg?v=1660552769,1,,false,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-2-1.jpg?v=1660552769,kg,,,true,true,,,active
+chain-shoulder-bag,,,,,,,,,Linen,,,,,es-24392427,1000.0,shopify,deny,manual,619.34,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-2-2.jpg?v=1660552770,2,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-2-2.jpg?v=1660552770,kg,,,,,,,
+chain-shoulder-bag,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-2-3.jpg?v=1660552772,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+chain-shoulder-bag,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-2-4.jpg?v=1660552773,4,,,,,,,,,,,,,,,,,,,,,,,,,,
+carved-maxi-dress,Carved Maxi Dress,"<p>Inventore dolores maiores fugit laborum omnis molestiae. Dolores dolore doloremque ea velit neque officiis. Mollitia voluptatem odit vel.</p>
+<p>Illum veritatis minus et cumque facilis. In deleniti nam nobis dolore. Deleniti eveniet pariatur sit accusantium.</p>
+
+",Lolita,,Accessories,"Dresses, New, Tops, Trends, Women",true,Color,Black,Size,S,,,s00b,0.0,shopify,continue,manual,92.60,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-1-1.jpg?v=1675676278,1,,false,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-1-3.jpg?v=1676886747,kg,,,true,true,,,active
+carved-maxi-dress,,,,,,,,,Black,,M,,,b0001,0.0,shopify,continue,manual,92.60,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-1-5.jpg?v=1676886747,2,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-1-3.jpg?v=1676886747,kg,,,,,,,
+carved-maxi-dress,,,,,,,,,Black,,XS,,,sx00b,0.0,shopify,continue,manual,92.60,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-1-2.jpg?v=1676886747,3,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-1-3.jpg?v=1676886747,kg,,,,,,,
+carved-maxi-dress,,,,,,,,,Blue,,S,,,s00bl,0.0,shopify,continue,manual,92.60,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-1-3.jpg?v=1676886747,4,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-5-1.jpg?v=1675676278,kg,,,,,,,
+carved-maxi-dress,,,,,,,,,Blue,,M,,,bl002,0.0,shopify,deny,manual,98.87,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-1-4.jpg?v=1676886747,5,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-5-1.jpg?v=1675676278,kg,,,,,,,
+carved-maxi-dress,,,,,,,,,Blue,,XS,,,sx00bl,0.0,shopify,continue,manual,92.60,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-5-1.jpg?v=1675676278,6,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-5-1.jpg?v=1675676278,kg,,,,,,,
+carved-maxi-dress,,,,,,,,,DarkCyan,,S,,,g0003,0.0,shopify,deny,manual,96.78,,true,true,"",https://cdn.shopify.com/s/files/1/1430/7398/products/product-7-3.jpg?v=1675676278,7,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-1-2.jpg?v=1676886747,kg,,,,,,,
+carved-maxi-dress,,,,,,,,,DarkCyan,,M,,,g0004,0.0,shopify,deny,manual,96.78,,true,true,"",,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-1-2.jpg?v=1676886747,kg,,,,,,,
+carved-maxi-dress,,,,,,,,,Brown,,S,,,br006,0.0,shopify,deny,manual,84.09,,true,true,"",,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-7-3.jpg?v=1675676278,kg,,,,,,,
+carved-maxi-dress,,,,,,,,,Brown,,M,,,br007,0.0,shopify,deny,manual,84.09,,true,true,"",,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-7-3.jpg?v=1675676278,kg,,,,,,,
+carved-maxi-dress,,,,,,,,,Brown,,XS,,,br005,0.0,shopify,deny,manual,84.09,,true,true,"",,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/1430/7398/products/product-7-3.jpg?v=1675676278,kg,,,,,,,
